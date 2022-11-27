@@ -15,6 +15,7 @@ What problem does it solve?
 - Combined the repetitive classes tags in the CSS file under their own group. It will help keep the file more.
 
 ## Github Link
+- https://github.com/AustinS86/Challenge-Week-1-Accessibility
  
 
 ![Screenshot](https://github.com/AustinS86/Challenge-Week-1-Accessibility/blob/main/assets/images/HoriseonScreenshot.png)
