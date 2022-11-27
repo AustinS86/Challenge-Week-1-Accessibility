@@ -17,7 +17,7 @@ What problem does it solve?
 ## Github Link
  
 
-![Screenshot](assets\images\HoriseonScreenshot.png)
+![Screenshot](https://github.com/AustinS86/Challenge-Week-1-Accessibility/blob/main/assets/images/HoriseonScreenshot.png)
 
 
 
