@@ -12,12 +12,12 @@ What problem does it solve?
 - It solves the issue with the 'alt' tags and makes it easier for someone using a screen reader. 
 - Condensed the code in the HTML and arranged the CSS file so that it follows same structure as the HTML.
 - Replaced the Div tags with more descriptive elements.
-- Combined the repetitive classes tags in the CSS file under their own group. It will help keep the file more.
+- Combined the repetitive classes tags in the CSS file under their own group. It will help keep the file more organized and easier to read.
 
 ## Github Link
 - https://github.com/AustinS86/Challenge-Week-1-Accessibility
  
-
+## Horiseon Screenshot
 ![Screenshot](https://github.com/AustinS86/Challenge-Week-1-Accessibility/blob/main/assets/images/HoriseonScreenshot.png)
 
 
